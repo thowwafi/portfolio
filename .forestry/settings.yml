@@ -11,9 +11,9 @@ sections:
   match: "*"
 - type: directory
   path: content/posts
-  label: Post
+  label: Posts
   create: all
-  match: "**/*"
+  match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
