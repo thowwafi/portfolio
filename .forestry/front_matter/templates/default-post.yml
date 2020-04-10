@@ -11,3 +11,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/posts/web-data-pantauan-kasus-covid-19-per-provinsi-di-indonesia.md
