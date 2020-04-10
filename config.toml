@@ -9,7 +9,7 @@ subtitle = "A simple theme for Hugo"
 title = "Thowwafi Alfiansyah"
 [languages.en.params.logo]
 logoHomeLink = "/"
-logoText = "hello friend ng"
+logoText = "Thowwafi"
 [[menu.main]]
 name = "Projects"
 url = "/projects"
