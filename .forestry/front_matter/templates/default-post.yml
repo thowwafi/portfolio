@@ -12,5 +12,4 @@ fields:
   name: type
   label: type
 pages:
-- content/posts/web-data-pantauan-kasus-covid-19-per-provinsi-di-indonesia.md
 - content/projects/react-pwa-app-data-pantauan-kasus-covid-19-indonesia.md
