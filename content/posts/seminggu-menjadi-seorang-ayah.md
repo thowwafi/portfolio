@@ -2,7 +2,7 @@
 date = 2020-04-23T17:00:00Z
 draft = true
 title = "Seminggu menjadi seorang Ayah"
-type = "Life"
+type = "posts"
 
 +++
 Tepat pada tanggal 17 April 2020, pada minggu ke-37 kandungan, anak pertama kami lahir. Alhamdulillah.
