@@ -34,3 +34,14 @@ description = "My new homepage or blog"
 disableReadOtherPosts = false
 images = [""]
 keywords = "homepage, blog"
+[[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/alpiansyeh"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:thowwafi@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/thowwafi"

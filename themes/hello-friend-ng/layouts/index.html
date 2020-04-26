@@ -1,6 +1,7 @@
 {{ define "main" }}
     <main aria-role="main">
         <div>
+            <img src="/uploads/selfpotrait.jpg" alt="profile-pic" class="center" >
             <h1>{{ .Site.Title }}</h1>
 
             {{- with .Site.Params.homeSubtitle }}
@@ -14,4 +15,16 @@
             {{- end }}
         </div>
     </main>
+    <style type='text/css'>
+        .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+        }
+        img {
+            border-radius: 50%;
+        }
+    </style>
+
 {{ end }}
