@@ -1,8 +1,6 @@
 ---
-title: "My First Post"
-date: 2020-04-10T18:44:01+07:00
-draft: false
-type: "posts"
----
+title: My First Post
+date: 2020-04-10T11:44:01.000+00:00
 
-#### LALLAA
+---
+#### Another new blog
