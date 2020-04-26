@@ -1,11 +1,10 @@
 +++
 date = 2020-04-23T17:00:00Z
-draft = true
 title = "Seminggu menjadi seorang Ayah"
 type = "Life"
 
 +++
-Tepat pada tanggal 17 April 2020, pada minggu ke-37 kandungan, anak pertama kami lahir. Alhamdulillah.
+Tepat pada tanggal 17 April 2020, pada minggu ke-38 kandungan, anak pertama kami lahir. Alhamdulillah.
 
 Seminggu ini banyak banget hal-hal yang membuat gua sadar, ilmu tentang persiapan kelahiran akan selalu tidak cukup, karena seorang anak terlahir dengan kondisi yang berbeda-beda. Hal ini menjadi mengingatkan saya pada kata-kata:
 
@@ -43,4 +42,8 @@ Alfiansyah = Dari nama ayahnya, yg berarti 'ribuan kali'
 
 Disamping tugas teknis seorang ayah seperti yang disebutkan di atas, tugas paling penting adalah menjadi support system bagi sang Ibu yang masih dalam masa recovery. Dari mulai support untuk bisa gerakin kaki, tidur miring, bisa duduk, bisa nyusuin. Hal hal seperti ini yang seharusnya bisa menjauhkan sang Ibu dari sindrom baby blues.
 
-Semoga anak kami selalu diberi kesehatan dan keselamatan.
+Sampai seminggu ini feeling gua terhadap tangisan baby lebih peka. Biasanya baby menangis karena ingin nyusu, setelah nyusu kalo masih nangis artinya dia perlu dibuat sendawa. Kalo masih nangis juga mungkin karena dia BAB atau BAK, jadi harus ganti popok. Atau dia hanya ingin digendong.
+
+Intinya sebagian seorang Ayah baru, kita harus peka terhadap kebutuhan baby dan Ibunya. Ingat selalu bahwa anak adalah anugrah dan titipan dari Allah, yang akan mendoakan kita kelak jika nanti sudah bisa berdoa.
+
+Tulisan ini menjadi bukti atas betapa bahagianya kami atas kehadiran putra pertama kami dan semoga anak kami selalu diberi kesehatan, kekuatan, kecerdasan, dan menjadi anak yang sholeh yang berbakti pada kedua orang tuanya.
