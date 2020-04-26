@@ -5,9 +5,9 @@ title = "Seminggu menjadi seorang Ayah"
 type = "Life"
 
 +++
-Tepat pada tanggal 17 April 2020, anak pertama kami lahir. Setelah 9 bulan dalam kandungan selama itu pula orang tuanya sudah sibuk membekali pengetahuan tentang kehamilan dan persalinan.
+Tepat pada tanggal 17 April 2020, pada minggu ke-37 kandungan, anak pertama kami lahir. Alhamdulillah.
 
-Tapi ketika waktunya sudah mendekat, semua yang disiapkan itu terasa sangat kurang. Hal ini menjadi mengingatkan saya pada kata-kata:
+Seminggu ini banyak banget hal-hal yang membuat gua sadar, ilmu tentang persiapan kelahiran akan selalu tidak cukup, karena seorang anak terlahir dengan kondisi yang berbeda-beda. Hal ini menjadi mengingatkan saya pada kata-kata:
 
 > "Menjadi orang tua itu tidak ada _User Guide_-nya."
 
