@@ -1,19 +1,13 @@
 +++
+aliases = ["about-us", "about-hugo", "contact"]
+date = 2014-04-09T00:00:00Z
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
-[ author ]
-  name = "Hugo Authors"
+[author]
+name = "Hugo Authors"
+
 +++
+Thowwafi is currently working as a Software Engineer. Using python as a main language and always open for a new tech.
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+He is learning to write and tell what's inside his mind, 'cause he want to learn to be a story teller.
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+So, just enjoy his blog!
