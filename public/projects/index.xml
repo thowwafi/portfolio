@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Thowwafi Alfiansyah</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Thowwafi Alfiansyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 17:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>React PWA App Data Pantauan Kasus Covid-19 Indonesia</title>
+      <link>/projects/data-pantauancovid-19-indonesia/</link>
+      <pubDate>Thu, 09 Apr 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/projects/data-pantauancovid-19-indonesia/</guid>
+      <description>2 Minggu #dirumahaja dapet info dari twitter @mathdroid kalo dia nyediain API data pantauan kasus COVID-19 di Indonesia per provinsi. Hal ini bikin gua terpicu untuk bikin web-app-nya.
+Sebelumnya baru ada API data global dan itu udah banyak banget orang yang bikin
+Terus terang, gua belom ada pengalaman untuk ngerjain projek frontend kayak gini. Jadi yang pertama kali gua pikirkan adalah bagaimana cara deploy-nya?
+Gua nemuin orang-orang pada pake domain .</description>
+    </item>
+    
+    <item>
+      <title>React PWA App Data Pantauan Kasus Covid-19 Indonesia</title>
+      <link>/projects/react-pwa-app-data-pantauan-kasus-covid-19-indonesia/</link>
+      <pubDate>Thu, 19 Mar 2020 17:00:00 +0000</pubDate>
+      
+      <guid>/projects/react-pwa-app-data-pantauan-kasus-covid-19-indonesia/</guid>
+      <description>2 Minggu #dirumahaja dapet info dari twitter @mathdroid kalo dia nyediain API data pantauan kasus COVID-19 di Indonesia per provinsi. Hal ini bikin gua terpicu untuk bikin web-app-nya.
+Sebelumnya baru ada API data global dan itu udah banyak banget orang yang bikin
+Terus terang, gua belom ada pengalaman untuk ngerjain projek frontend kayak gini. Jadi yang pertama kali gua pikirkan adalah bagaimana cara deploy-nya?
+Gua nemuin orang-orang pada pake domain .</description>
+    </item>
+    
+  </channel>
+</rss>
