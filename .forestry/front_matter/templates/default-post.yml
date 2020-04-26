@@ -12,4 +12,5 @@ fields:
   name: type
   label: type
 pages:
+- content/posts/seminggu-menjadi-seorang-ayah.md
 - content/projects/react-pwa-app-data-pantauan-kasus-covid-19-indonesia.md
